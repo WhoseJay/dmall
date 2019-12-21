@@ -1,0 +1,15 @@
+1. install node.js
+2. Open the file and in the last line of the file replace token with your bot token bot.
+2. Run the file by opening cmd and navigate to the directory with the file, then say npm i discord.js and then node .
+3. Done! Now it shall run and you can use it buy saying !dmall <message>
+
+
+   ▄████████  ▄█     █▄     ▄████████  ▄█  
+  ███    ███ ███     ███   ███    ███ ███  
+  ███    ███ ███     ███   ███    ███ ███▌ 
+  ███    ███ ███     ███   ███    ███ ███▌ 
+▀███████████ ███     ███ ▀███████████ ███▌ 
+  ███    ███ ███     ███   ███    ███ ███  
+  ███    ███ ███ ▄█▄ ███   ███    ███ ███  
+  ███    █▀   ▀███▀███▀    ███    █▀  █▀   
+                                           
